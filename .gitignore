@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Progreso del jugador (no versionar)
+hockey_save.json
+
+# Sistema
+Thumbs.db
+.DS_Store
+
+# Editores
+.vscode/
+.idea/

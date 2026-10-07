@@ -1,0 +1,15 @@
+{
+  "monedas": 0,
+  "objetos": [
+    "mesa_basica",
+    "pala_basica",
+    "puck_clasica"
+  ],
+  "torneo_ronda": 0,
+  "torneo_ganado": false,
+  "partidos_ganados": 0,
+  "partidos_perdidos": 0,
+  "mejor_racha": 0,
+  "sonido": true,
+  "dificultad": "Intermedio"
+}
