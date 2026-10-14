@@ -1,0 +1,9 @@
+# Hockey de Aire necesita pygame.
+#
+# En Python 3.13+ el paquete "pygame" oficial todavia no publica ruedas
+# compatibles y falla al compilar, por eso se usa la fork comunitaria
+# "pygame-ce", que si las publica y es la que mantiene pygame.
+#
+#   pip install -r requirements.txt
+#
+pygame-ce>=2.5
