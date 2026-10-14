@@ -1,4 +1,4 @@
-# Hockey de Aire
+# Hockey de Aire v2
 
 Hockey de aire 2D visto desde arriba: mueves tu pala con el ratón, la primera
 a 5 puntos gana y hay un torneo de cuatro rondas con consumibles y monedas.
